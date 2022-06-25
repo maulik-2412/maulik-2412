@@ -1,5 +1,5 @@
 <h1>Hello</h1>
-- 👋 Hi, I’m @maulik-2412
+- 👋 Hi, I’m <strong>Maulik Tyagi<strong/>. Github ID-@maulik-2412
 - 👀 I’m interested in Programming and Problem Solving
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on HTML Projects
