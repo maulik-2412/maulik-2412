@@ -1,9 +1,17 @@
 <h1>Hello</h1>
-- 👋 Hi, I’m <strong>Maulik Tyagi<strong/>. Github ID-@maulik-2412
-- 👀 I’m interested in Programming and Problem Solving
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on HTML Projects
-- 📫 Contact Me using my gmail mauliktyagi08@gmail.com
+  Hi, I’m <strong>Maulik Tyagi</strong>. Github ID-@maulik-2412
+ <br>
+  I’m interested in 
+  <ul>
+  <li>Programming 
+  <li>Problem Solving
+   </ul> 
+   <br>
+ I’m currently learning <em>Web Development</em>
+ <br>
+ I’m looking to collaborate on HTML Projects
+ 
+Contact Me using my gmail mauliktyagi08@gmail.com or find me at <a href="www.linkedin.com/in/maulik-tyagi-90aa0922">LinkedIn</a>
 
 <!---
 maulik-2412/maulik-2412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
