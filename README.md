@@ -11,7 +11,7 @@
  <br>
  I’m looking to collaborate on HTML Projects
  
-Contact Me using my gmail mauliktyagi08@gmail.com or find me at <a href="www.linkedin.com/in/maulik-tyagi-90aa0922">LinkedIn</a>
+Contact Me using my gmail mauliktyagi08@gmail.com or find me at <a href="https://www.linkedin.com/in/maulik-tyagi-90aa09229/">LinkedIn</a>
 
 <!---
 maulik-2412/maulik-2412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
