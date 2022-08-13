@@ -9,7 +9,7 @@
    <br>
  I’m currently learning <em>Web Development</em>
  <br>
- I’m looking to collaborate on HTML Projects
+ I’m looking to collaborate on HTML Projects and CSS Projects.
  
 Contact Me using my gmail mauliktyagi08@gmail.com or find me at <a href="https://www.linkedin.com/in/maulik-tyagi-90aa09229/">LinkedIn</a>
 
