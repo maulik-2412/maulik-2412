@@ -4,6 +4,5 @@
 <br>
 
 <p align="center">
-<button type="button" name="myButton" style="color:blue; background-color: #2d63c8; font-size: 19px; border: 1px solid #2d63c8; padding: 15px 50px; 
-cursor: pointer">Age:19</button>
+<img src="http://hoster2.onlinebadgemaker.com/upload_server/images/20215528Zq6g1/badge.png" height="150"/>
 </p>
