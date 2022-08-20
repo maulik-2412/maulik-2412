@@ -39,13 +39,13 @@
  <br>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
  <br>
- <code> <img height="50" src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png></code>
+ <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg"></code>
  <br>
    <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
   <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=maulik-2412&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mau" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik-2412&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mau" /></p>
   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=maulik-2412&show_icons=true&locale=en&theme=chartreuse-dark" alt="mau" width="410" /></p>
 <br><br><br><br><br>
   
