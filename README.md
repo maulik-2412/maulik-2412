@@ -13,4 +13,5 @@
      <td>Lives</td>
      <td>India</td>
     </tr>
-  </table> 
+  </table>
+ </p>
