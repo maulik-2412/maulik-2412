@@ -39,7 +39,7 @@
  <br>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
  <br>
- <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg"></code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
  <br>
    <hr>
   <p align="center">
