@@ -3,7 +3,7 @@
 </p> 
 <br>
 
-<p align="center">
+<p>
   <table>
     <tr>
      <td>Age</td>
