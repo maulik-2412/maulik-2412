@@ -3,15 +3,6 @@
 </p> 
 <br>
 
-<p>
-  <table>
-    <tr>
-     <td>Age</td>
-     <td>19</td>
-    </tr>
-    <tr>
-     <td>Lives</td>
-     <td>India</td>
-    </tr>
-  </table>
+<p align="center">
+<button type="button" name="myButton">Age:19</button>
 </p>
