@@ -3,9 +3,7 @@
 </p> 
 <br>
 
-<p align="center">
-<img src="http://hoster2.onlinebadgemaker.com/upload_server/images/20215528Zq6g1/badge.png" height="150"/>
-</p>
+
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Maulik Tyagi </h1>
 <h3 align="center">A Beginner Web Developer </h3>
