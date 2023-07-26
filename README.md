@@ -32,27 +32,39 @@
 <br><br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>My working tools...</h1>
 <p align="left">
- <table>
+ <table border="0px">
   <tr>
+   <th>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
- 
+   </th>
+   <th>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
- 
+   </th>
+   <th>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
- </tr>
+   </th>
+  </tr>
  <tr>
+  <th>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
- 
+  </th>
+  <th>
  <code> <img height="50" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
- 
- <code> <img height="50" src="https://seeklogo.com/images/C/cpanel-logo-FC38CF4284-seeklogo.com.png"></code>
+   </th>
+ <th>
+ <code> <img height="30" src="https://seeklogo.com/images/C/cpanel-logo-FC38CF4284-seeklogo.com.png"></code>
+  </th>
  </tr>
  <tr>
+  <th>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
- 
+   </th>
+ <th>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
- 
+  </th>
+ <th>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  </th>
  </tr>
  </table>
  <br>
