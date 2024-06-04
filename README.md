@@ -33,7 +33,7 @@
 <br><br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>My working tools...</h1>
 <p align="left">
- https://skillicons.dev/icons?i=js,html,css,bootstrap
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  <br>
    <hr>
   <p align="center">
