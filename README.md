@@ -18,7 +18,7 @@
   <em>
     Hello, I am Maulik Tyagi a <b>Third year</b> B.Tech CSE undergraduate 
    <br>
-    <b>I'm self taught and really passionate about CS</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>FrontEnd Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is learning new skills and wokring on his
+    <b>I'm self taught and really passionate about CS</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is learning new skills and wokring on his
     <b>Programming Skills</b> and always looking forward to challenges.
   </em> 
   <br>
@@ -27,9 +27,9 @@
 <br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>About me ....</h1>
 <p align="left">
-✔ I’m currently learning React.js<br>
-✔ I’m looking for any FrontEnd internships and work<br>
-✔ I’m looking to collaborate with any Front End Project<br>
+✔ I’m currently learning Node.js<br>
+✔ I’m looking for any software developement internships aur works<br>
+✔ I’m looking to collaborate with any Project<br>
 <br><br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>My working tools...</h1>
 <p align="left">
