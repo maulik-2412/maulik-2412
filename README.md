@@ -33,7 +33,7 @@
 <br><br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>My working tools...</h1>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,java,jquery,react&perline=5">
+ <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,java,jquery,react">
  <br>
    <hr>
   <p align="center">
