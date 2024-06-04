@@ -10,12 +10,13 @@
 <a href="https://www.frontendmentor.io/profile/maulik-2412" target="blank"><img align="center" src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" alt="frontend_maulik" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/maulik-tyagi-90aa09229/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="lin_maulik" height="30" width="40" /></a>   
- <a href = "mailto: mauliktyag08@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+&nbsp;
+<a href = "mailto: mauliktyag08@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
 <p align="center">
   <em>
-    Hello, I am Maulik Tyagi a <b>Second year</b> B.Tech CSE undergraduate 
+    Hello, I am Maulik Tyagi a <b>Third year</b> B.Tech CSE undergraduate 
    <br>
     <b>I'm self taught and really passionate about CS</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>FrontEnd Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is learning new skills and wokring on his
     <b>Programming Skills</b> and always looking forward to challenges.
