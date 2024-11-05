@@ -16,7 +16,7 @@
 </p>
 <p align="center">
   <em>
-    Hello, I am Maulik Tyagi a <b>Third year</b> B.Tech CSE undergraduate 
+    Hello, I am Maulik Tyagi a <b>MERN</b> Full Stack Developer
    <br>
     <b>I'm self taught and really passionate about CS</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is learning new skills and wokring on his
     <b>Programming Skills</b> and always looking forward to challenges.
@@ -27,13 +27,13 @@
 <br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>About me ....</h1>
 <p align="left">
-✔ I’m currently learning Node.js<br>
-✔ I’m looking for any software developement internships aur works<br>
+✔ I’m currently learning JSP<br>
+✔ I’m looking for any software developement internships and works<br>
 ✔ I’m looking to collaborate with any Project<br>
 <br><br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>My working tools...</h1>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,java,jquery,react">
+ <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,java,jquery,react,nodejs,express,postman,firebase,mysql">
  <br>
    <hr>
   <p align="center">
