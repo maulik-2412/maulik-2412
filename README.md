@@ -33,7 +33,7 @@
 <br><br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>My working tools...</h1>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,c,cpp,java,python,jquery,react,nextjs,nodejs,express,git,postman,mongodb,firebase,mysql,redis,postgres,nestjs,docker,vitest">
+ <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,c,cpp,java,python,jquery,react,nextjs,nodejs,express,git,postman,mongodb,firebase,mysql,redis,postgres,nestjs,docker,vitest,aws">
  <br>
    <hr>
   <p align="center">
