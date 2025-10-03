@@ -15,9 +15,9 @@
 </p>
 <p align="center">
   <em>
-    Hello, I am Maulik Tyagi a <b>MERN</b> Full Stack Developer
+    Hello, I am Maulik Tyagi a <b>Full Stack</b> Developer
    <br>
-    <b>I'm self taught and really passionate about CS</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is learning new skills and wokring on his
+    <b>I'm self taught and really passionate about CS</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is learning new skills and working on his
     <b>Programming Skills</b> and always looking forward to challenges.
   </em> 
   <br>
@@ -26,14 +26,14 @@
 <br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>About me ....</h1>
 <p align="left">
-✔ I’m currently learning JSP<br>
-✔ I’m looking for any software developement internships and works<br>
+✔ I’m currently learning Cloudflare Workers<br>
+✔ I’m looking for any software developement jobs and works<br>
 ✔ I’m looking to collaborate with any Project<br>
 ✔ <a href = "https://website-iota-two-77.vercel.app/">My Personal Website</a><br>
 <br><br><br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h1>My working tools...</h1>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,c,cpp,java,python,jquery,react,nextjs,nodejs,express,git,postman,mongodb,firebase,mysql,redis,postgres,nestjs,docker,vitest,aws">
+ <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,c,cpp,java,python,jquery,react,nextjs,nodejs,express,git,postman,mongodb,firebase,mysql,redis,postgres,nestjs,docker,vitest,aws,cloudflare,dynamodb,ubuntu">
  <br>
    <hr>
   <p align="center">
